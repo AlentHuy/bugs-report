@@ -9,6 +9,6 @@ client
 ***
 Cobalt Hack Client Download:
 Discord: https://discord.gg/X8KZ2tc
-*-*-*
+***
 >Client made by: AlentHuy & Nesfan
 
