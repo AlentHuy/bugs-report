@@ -12,3 +12,4 @@ Discord: https://discord.gg/X8KZ2tc
 -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
 >Client made by: AlentHuy & Nesfan
 >Client tạo bởi: AlentHuy & Nesfan
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
